@@ -1,8 +1,10 @@
-.header{
-  display: inline-block;
-  text-decoration: none;
-}
-
 ul {
   list-style-type: none;
+  text-align:right;
+}
+
+li {
+  display:inline-block;
+  vertical-align:middle;
+  padding:5px;
 }
