@@ -10,14 +10,19 @@ li {
   display:inline-block;
   vertical-align:middle;
   padding:4px;
+  padding-right: 10px;
   margin-right: 12px;
 }
 .section {
   text-align: center;
   height: 231px;
-  width: 1620px;
+  width: 100%;
   padding-top: 112px;
 }
+.centerlogo {
+  margin:0 auto;
+}
+
 .search {
   display: block;
   border: 1px solid rgb(185,185,185);
